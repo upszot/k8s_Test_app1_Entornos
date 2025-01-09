@@ -1,0 +1,5 @@
+configmap:
+  message: "Mensaje del ConfigMap para Producción"
+environment:
+  otra_variable: "Valor de Producción"
+  

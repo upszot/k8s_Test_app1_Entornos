@@ -1,0 +1,5 @@
+configmap:
+  message: "Mensaje del ConfigMap para Desarrollo"
+environment:
+  otra_variable: "Valor de Desarrollo"
+  
